@@ -18,7 +18,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "true",
-        "APP_URL": "arifportofolio-ee7734l9u-arifbucholis-projects.vercel.app",
+        "APP_URL": "arifportfolio-coral.vercel.app",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENT_CACHE": "/tmp/events.php",
         "APP_PACKAGE_CACHE": "/tmp/package.php",
